@@ -1,0 +1,5 @@
+baseURL = 'https://L-Murphy.github.io/'
+languageCode = 'en-us'
+title = 'Liam Blog 💸🔥'
+
+theme = 'DoIt'
